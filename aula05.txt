@@ -1,0 +1,13 @@
+ 1  senac
+    2  sudo init 0
+    3  id
+    4  sudo
+    5  sudo -i
+    6  sudo apt update 
+    7  sudo apt upgrade
+    8  sudo apt full-upgrade
+    9  sudo apt dist-upgrade
+   10  sudo apt autoremove
+   11  sudo apt autoclean
+   12  history
+senac@senac-VirtualBox:~$ 
